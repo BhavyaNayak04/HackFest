@@ -1,8 +1,11 @@
 # How to setup project
 
 move to folder HACKFEST [cd HACKFEST]
+
 install all the dependencies [npm i]
+
 create a ".env" file and copy paste contents of "env.example" file
+
 add MongoDb Atlas link
 
 
