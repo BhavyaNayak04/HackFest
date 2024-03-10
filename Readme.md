@@ -10,17 +10,22 @@ add MongoDb Atlas link
 
 
 # running:
+
   react- [npm run dev]
+  
   server(express)- [node server.js]
 
   run those commands in two diferent terminals
 
 # working with prisma:
   after changing the schema.prisma file,
+  
   [npx prisma generate]
+  
   [npx prisma db push] do it before commiting changes to github
   
   *to see the final database tables/data*
+  
    [npx prisma studio] - opens a gui to see the data and schema
 
 
